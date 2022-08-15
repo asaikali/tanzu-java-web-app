@@ -42,7 +42,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<!-- insecure log4j --->
+		<!-- insecure log4j -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
 			<artifactId>log4j-core</artifactId>
